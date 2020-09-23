@@ -1,6 +1,6 @@
-<div style="text-align:center;">
-  <img src="https://github.com/HarrisGri/harrisgri/blob/master/gitBanner.jpeg" alt="Haris Grizovic">
-</div>
+<p align="center">
+  <img src="https://github.com/HarrisGri/harrisgri/blob/master/gitBanner.jpeg" alt="Haris Grizovic" />
+</p>
 <h3 align="center">#flamingCODER, #teamplayer, #curiosity, #JS, #architecture.</h3>
 <br>
 <br>
