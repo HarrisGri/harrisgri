@@ -1,4 +1,4 @@
-<img src="https://github.com/HarrisGri/harrisgri/blob/master/git-banner.gif" alt="Haris Grizovic">
+<img src="https://github.com/HarrisGri/harrisgri/blob/master/gitBanner.jpeg" width="960" alt="Haris Grizovic">
 <h3 align="center">#flamingCODER, #teamplayer, #curiosity, #JS, #architecture.</h3>
 <br>
 <br>
