@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/HarrisGri/harrisgri/blob/master/gitBanner.jpeg" alt="Haris Grizovic" />
+  <img src="https://github.com/HarrisGri/harrisgri/blob/master/git-banner.png" alt="Haris Grizovic" />
 </p>
 <h3 align="center">#flamingCODER, #teamplayer, #curiosity, #JS, #architecture.</h3>
 <br>
